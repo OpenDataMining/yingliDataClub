@@ -1,0 +1,5 @@
+https://data.seattle.gov/
+
+Contains city business, community, education, finance, land, permits, public safety, transportation, crime and more data sources of the Seattle area.
+
+API: OData protocol and others (via Socrata).
