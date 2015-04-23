@@ -1,2 +1,0 @@
-KDE -- Kernel Density Estimation
-
